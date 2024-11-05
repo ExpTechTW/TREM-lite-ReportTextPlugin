@@ -1,13 +1,13 @@
 {
-  "name": "ReportWebhook",
+  "name": "ReportTest",
   "version": "1.0.001",
   "description": {
-    "zh_tw": "透過WebHook發送Report訊息"
+    "zh_tw": "僅供儲存 text"
   },
   "author": ["cracks666666"],
   "dependencies": {
     "trem": ">=3.0.0-pre.5"
   },
   "resources": ["AGPL-3.0"],
-  "link": "https://github.com/ExpTechTW/TREM-Example-Plugin"
+  "link": "https://github.com/ExpTechTW/TREM-lite-ReportTextPlugin"
 }
